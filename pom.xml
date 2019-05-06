@@ -23,7 +23,7 @@
                 <version>3.0.2</version>
                 <configuration>
                     <archive>
-                        <manifestFile>${project.build.outputDirectory}/main/java/META-INF/MANIFEST.MF</manifestFile>
+                        <manifestFile>/home/circleci/.m2/src/main/java/META-INF/MANIFEST.MF</manifestFile>
                     </archive>
                 </configuration>
             </plugin>
